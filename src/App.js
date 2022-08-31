@@ -1,6 +1,8 @@
-function App() {
+import Avatar from "./components/avatar";
+
+const App = () => {
   return (
-    <p>App works!</p> 
+    <Avatar />
   );
 }
 
